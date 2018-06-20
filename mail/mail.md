@@ -224,4 +224,4 @@ setsebool httpd_can_network_connect=1
 
 Podemos revisar el último correo enviado.
 
-![Webmail login](images/webmail-inbox.PNG)
+![Webmail login](images/webmail-inbox.png)
